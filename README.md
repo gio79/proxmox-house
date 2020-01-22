@@ -1,0 +1,2 @@
+# proxmox-house
+proxmox @home
